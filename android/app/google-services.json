@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746932590360",
+    "project_id": "barakat-app-267d5",
+    "storage_bucket": "barakat-app-267d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746932590360:android:ed9f2025765416faacb06d",
+        "android_client_info": {
+          "package_name": "com.example.barakat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0J1hOzOq71WFL4_XCI-BLFoQf2rCUZK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
