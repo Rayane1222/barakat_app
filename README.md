@@ -70,7 +70,7 @@ To run this app on your local machine, follow these steps:
 
 ## Screenshots
 
-*(Add screenshots or GIFs of the app in action to showcase its features.)*
+*SOON*
 
 ## Future Enhancements
 
@@ -99,7 +99,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the EMSI License. See the LICENSE file for details.
 
 ## Contact
 
